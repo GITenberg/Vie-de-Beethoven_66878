@@ -1,5 +1,8 @@
 _repo: Vie-de-Beethoven_66878
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66878-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Romain_Rolland
     - https://fr.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66878#Vie-de-Beethoven
 gutenberg_issued: '2021-12-04'
 identifiers:
   gutenberg: '66878'
